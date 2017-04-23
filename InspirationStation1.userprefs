@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{119C8F86-C265-462D-A44A-523EB8A3A915}|">
+  <MonoDevelop.Ide.ItemProperties.InspirationStation1.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InspirationStation1.Api/Infrastructure/InspirationStationDataContext.cs">
+    <Files>
+      <File FileName="InspirationStation1.Api/Controllers/ApplicationsController.cs" Line="12" Column="38" />
+      <File FileName="InspirationStation1.Api/Models/Application.cs" Line="8" Column="27" />
+      <File FileName="InspirationStation1.Api/Infrastructure/InspirationStationDataContext.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
